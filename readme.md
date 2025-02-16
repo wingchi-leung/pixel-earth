@@ -1,14 +1,13 @@
 ## Pixel Earth Demo
 
-this is an demo make by blender,enable3d and ammo.wasm.js. 
+this is a demo game make by blender,enable3d and ammo.wasm.js. 
+
 
 ### Run
 
 download this repository 
 
 `npm install` 
-
-
 `npm start` 
 
 
